@@ -7,10 +7,6 @@ package labexercise8;
 import java.io.*;
  import java.util.*;
 
-/**
- *
- * @author ARUMUGASAMY
- */
 public class caesarcipher {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
