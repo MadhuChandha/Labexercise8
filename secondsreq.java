@@ -8,10 +8,6 @@ import java.util.*;
 import static labexercise8.second.getSecondMostFreq;
 
 
-/**
- *
- * @author ARUMUGASAMY
- */
 public class secondsreq {
     public static void main(String[] args) {
       String str = "successes"; 
